@@ -1,6 +1,6 @@
 sentinova_sentiment_model
-lime_lr_explanation.html
-lime_rf_explanation.html
+result
 pred.txt
 metode_machine_learning_standar.ipynb
 utils/__pycache__
+model/random_forest_model.pkl
