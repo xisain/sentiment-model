@@ -4,3 +4,4 @@ pred.txt
 metode_machine_learning_standar.ipynb
 utils/__pycache__
 model/random_forest_model.pkl
+result_model
